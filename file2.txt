@@ -1,0 +1,4 @@
+Halo, ini file2.txt
+Baris kedua file2 yang berbeda
+Baris ketiga sama
+Baris keempat hanya di file2
